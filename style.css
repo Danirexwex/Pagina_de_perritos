@@ -1,0 +1,28 @@
+/*Así se pone un comentario*/
+body{
+background-color: #c0e0a2; 
+color:#26463c; 
+font-family: 'Ysabeau', sans-serif;
+}
+h1, p{
+    color: #2a1511;
+}
+
+h3{
+font-size: 25px;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border-style:solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 0px;
+    margin: 20px;
+
+}
+
+a{
+    color:#73550a
+}
